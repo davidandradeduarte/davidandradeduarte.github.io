@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/david/source/playground/davidandradeduarte.github.io.hugo",
+	"sourceRoot": "/Users/david/source/github/davidandradeduarte.github.io.hugo",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
